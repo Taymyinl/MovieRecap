@@ -1,0 +1,8 @@
+{
+  "name": "Remix TubeScribe - Video Translator",
+  "description": "Convert video audio into english audio, transcripts and translate them instantly to Burmese and other languages using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
